@@ -1,0 +1,9 @@
+h1, h2, h3, #title {
+    text-align: center;
+}
+
+body {
+    font-weight: 200;
+    font-family: "Montserrat", sans-serif;
+    background-color: lightslategray;
+}
